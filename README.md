@@ -1,31 +1,47 @@
 <div align="center">
 
-# 👞 Derinet — Hakiki Deri Ayakkabı & Aksesuar
+# 🛒 Derinet
 
-**E-ticaret kurumsal web sitesi**
+**E-Ticaret · Hakiki Deri Ayakkabı & Aksesuar**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-derinet.com.tr-6c63ff?style=for-the-badge)](https://www.derinet.com.tr/)
+<img src="https://bugrayetis.github.io/yeni/assets/covers/derinet.jpg" width="100%" alt="Derinet ön izleme" />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-47C5FB?style=flat-square&logo=google&logoColor=white)
-![Responsive](https://img.shields.io/badge/-Responsive-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-derinet"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
 ---
 
-## ✨ Proje Hakkında
+## 📌 Proje Hakkında
 
-Derinet hakiki deri ayakkabı ve aksesuar markası için kurumsal e-ticaret web sitesi. Ürün katalogları, detay sayfaları ve modern alışveriş deneyimi sunar.
+Hakiki deri kadın ve erkek ayakkabı modelleri sunan Derinet markası için geliştirdiğim e-ticaret platformu. Shopify altyapısı, ürün filtreleme, hızlı satın alma, WhatsApp destek ve mobil uyumlu tasarım içeriyor.
+
+| | |
+|---|---|
+| **Kategori** | E-Ticaret |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **E-Ticaret Altyapısı** — Ürün listeleme & detay
-- **SEO Optimizasyonu** — Arama motoru uyumlu
-- **Responsive Design** — Tüm cihazlarda uyumlu
+![Shopify](https://img.shields.io/badge/Shopify-1f2233?style=flat-square)
+![E-Ticaret](https://img.shields.io/badge/E--Ticaret-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
+![Custom Design](https://img.shields.io/badge/Custom_Design-1f2233?style=flat-square)
 
-## 🔗 Bağlantılar
+## 🔒 Kaynak Kod
 
-- 🌐 **Canlı:** [derinet.com.tr](https://www.derinet.com.tr/)
-- 👤 **Geliştirici:** [Buğra Yetiş](https://bugrayetis.github.io)
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-derinet)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-derinet"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
