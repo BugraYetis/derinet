@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Derinet
+# 👞 Derinet
 
 **E-Ticaret · Hakiki Deri Ayakkabı & Aksesuar**
 
